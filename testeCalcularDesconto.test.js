@@ -1,4 +1,4 @@
-import calcularPrecoComDesconto from "../src/CalcularDesconto";
+import calcularPrecoComDesconto from "CalcularDesconto";
 
 describe('Teste da função calcularPrecoComDesconto', () => {
     test('Valor de compra abaixo de 100 (sem desconto)', () => {
