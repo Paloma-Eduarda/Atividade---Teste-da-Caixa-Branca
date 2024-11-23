@@ -1,4 +1,4 @@
-import determinarTriangulo from "../src/Triangulo";
+import determinarTriangulo from "Triangulo";
 
 describe('Teste da função determinarTriangulo', () => {
     test('Não é um triângulo válido (lado inválido)', () => {
